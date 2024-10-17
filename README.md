@@ -1,6 +1,6 @@
 # ProgramacionUAB2024
 
-Docente: Fernando Iquiza
+Estudiante: jose Manuel
 Taller de Programacion
 Universidad Adventista de Bolivia
 
